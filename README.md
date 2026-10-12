@@ -41,3 +41,4 @@
 - Average Price by Year chart
 - Interactive Manufacturer, Fuel Type, and Year slicers
 
+!["dashboard"](image/)
