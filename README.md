@@ -40,5 +40,7 @@
 - Models by Year chart
 - Average Price by Year chart
 - Interactive Manufacturer, Fuel Type, and Year slicers
+## dashboard
 
-!["dashboard"](image/Screenshot 2026-10-12 151552 dashboard.png)
+
+!["image"](Image/Screenshot 2026-10-12 151552 dashboard.png)
