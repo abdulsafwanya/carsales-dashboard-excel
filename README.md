@@ -43,4 +43,4 @@
 ## dashboard
 
 
-!["image"](Image/car_dashboard.png)
+!["image"](images/car_dashboard.png)
